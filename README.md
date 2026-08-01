@@ -1,8 +1,3 @@
-<div align="center">
-
-# SoftLander Game
-
-</div>
 # Terms & Conditions
 
 These terms and conditions apply to the SoftLander app for mobile devices, together with any related services operated by devusama (collectively, the "Application"). devusama is hereby referred to as the "Service Provider".
