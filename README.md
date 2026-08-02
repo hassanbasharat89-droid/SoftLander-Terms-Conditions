@@ -47,11 +47,11 @@ The Service Provider reserves the right to:
 
 Content submitted through the Application may be visible to other users or to the public, depending on how the Application functions.
 
-If you believe content violates these Terms, infringes your rights, or is unlawful, you may report it to the Service Provider at hassanbasharat89@gmail.com. The report should include enough information for the Service Provider to identify the content, evaluate the complaint, and contact you if follow-up is required.
+If you believe content violates these Terms, infringes your rights, or is unlawful, you may report it to the Service Provider at devxam.studio@gmail.com. The report should include enough information for the Service Provider to identify the content, evaluate the complaint, and contact you if follow-up is required.
 
 Where the Application provides such features, you may also report content, block other users, or mute notifications directly through the Application's interface. The Service Provider will review in-app reports with the same standards described in these Terms.
 
-The Service Provider may review reported content, request additional information where necessary, remove or restrict access to content, and take action against the responsible account where appropriate. Users affected by moderation decisions may contact the Service Provider at hassanbasharat89@gmail.com to request further review. The Service Provider will respond to appeals within a reasonable period and provide the reasons for any upheld moderation decision, subject to applicable law.
+The Service Provider may review reported content, request additional information where necessary, remove or restrict access to content, and take action against the responsible account where appropriate. Users affected by moderation decisions may contact the Service Provider at devxam.studio@gmail.com to request further review. The Service Provider will respond to appeals within a reasonable period and provide the reasons for any upheld moderation decision, subject to applicable law.
 
 By submitting User-Generated Content you grant the Service Provider a non-exclusive, worldwide, royalty-free license to use, reproduce, distribute, prepare derivative works of, display and perform the content in connection with the Application and the Service Provider's business. This license does not grant the Service Provider the right to sell or sublicense your content to third parties independently of the Application. You represent and warrant that you own or control all rights in the content you post and that use of the content does not violate these Terms or applicable law.
 
@@ -118,7 +118,7 @@ Any dispute arising out of or relating to these Terms will be brought before the
 
 ## DSA Compliance (Digital Services Act)
 If the Application is an intermediary service as defined under the Digital Services Act (Regulation (EU) 2022/2065, "DSA"), the following provisions apply in addition to the terms above:
-* **Point of Contact:** The Service Provider maintains a single point of contact for direct communication with EU authorities and recipients of the service, reachable at hassanbasharat89@gmail.com. Where the Service Provider is established outside the European Union, a legal representative in the EU has been designated in accordance with Article 13 of the DSA.
+* **Point of Contact:** The Service Provider maintains a single point of contact for direct communication with EU authorities and recipients of the service, reachable at devxam.studio@gmail.com. Where the Service Provider is established outside the European Union, a legal representative in the EU has been designated in accordance with Article 13 of the DSA.
 * **Content Moderation and Statement of Reasons:** When the Service Provider restricts access to content, suspends or terminates an account, or otherwise limits the availability of the Application's features, a clear and specific statement of reasons will be provided to the affected user in accordance with Article 17 of the DSA.
 * **Notice and Action:** Users and third parties may submit notices of allegedly illegal content through the contact details provided in these Terms. The Service Provider will process notices promptly, diligently, and without automated decision-making where human review is required, in accordance with Article 16 of the DSA.
 * **Out-of-Court Dispute Settlement:** Disputes regarding content moderation decisions may be submitted to an out-of-court dispute settlement body certified in accordance with Article 21 of the DSA.
@@ -147,4 +147,4 @@ Previous versions of these Terms and Conditions will be maintained and made avai
 ---
 
 ## Contact Us
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at hassanbasharat89@gmail.com.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at devxam.studio@gmail.com.
