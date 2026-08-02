@@ -122,7 +122,7 @@ If the Application is an intermediary service as defined under the Digital Servi
 * **Content Moderation and Statement of Reasons:** When the Service Provider restricts access to content, suspends or terminates an account, or otherwise limits the availability of the Application's features, a clear and specific statement of reasons will be provided to the affected user in accordance with Article 17 of the DSA.
 * **Notice and Action:** Users and third parties may submit notices of allegedly illegal content through the contact details provided in these Terms. The Service Provider will process notices promptly, diligently, and without automated decision-making where human review is required, in accordance with Article 16 of the DSA.
 * **Out-of-Court Dispute Settlement:** Disputes regarding content moderation decisions may be submitted to an out-of-court dispute settlement body certified in accordance with Article 21 of the DSA.
-* **Transparency Reporting:** The Service Provider publishes periodic transparency reports covering content moderation activities in accordance with Article 24 of the DSA. Reports are available upon request at hassanbasharat89@gmail.com.
+* **Transparency Reporting:** The Service Provider publishes periodic transparency reports covering content moderation activities in accordance with Article 24 of the DSA. Reports are available upon request at devxam.studio@gmail.com .
 
 ---
 
@@ -139,7 +139,8 @@ These Terms and Conditions, together with the Privacy Policy, constitute the ent
 ## Changes to These Terms and Conditions
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-Previous versions of these Terms and Conditions will be maintained and made available upon request by contacting the Service Provider at hassanbasharat89@gmail.com.
+Previous versions of these Terms and Conditions will be maintained and made available upon request by contacting the Service Provider at devxam.studio@gmail.com.
+
 
 * **Effective Date:** 2026-08-01
 
